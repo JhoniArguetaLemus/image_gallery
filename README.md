@@ -1,4 +1,4 @@
-<h1>App de galeria que muestra fotos de diferente ciudades de EL Salvador</h1>
+<h1>App de galeria que muestra fotos de diferente ciudades de El Salvador</h1>
 
 
 
